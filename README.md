@@ -1,8 +1,8 @@
 # Models covered so far
 
 ## Python
-Hodgkin-Huxley model of membrane potential in neurons
-Flocking model where individuals have a limited field of view, and come in two types - 'predators' and 'prey'
+1) Hodgkin-Huxley model of membrane potential in neurons </br>
+2) Flocking model where individuals have a limited field of view, and come in two types - 'predators' and 'prey'
 
 ## Netlogo
-SIRS model of spread of infectious diseases
+1) SIRS model of spread of infectious diseases
